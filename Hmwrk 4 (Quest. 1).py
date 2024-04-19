@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 28 14:21:34 2024
 
-@author: domin
-"""
 
 
 
